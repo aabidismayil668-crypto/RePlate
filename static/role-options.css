@@ -1,0 +1,24 @@
+.auth-card > .eyebrow {
+  font-size: 10px;
+}
+
+.auth-card > h2 {
+  font-size: 25px;
+  letter-spacing: -0.45px;
+}
+
+.form-stack .role-field {
+  font-size: 12px;
+}
+
+.form-stack select[name="role"] {
+  min-height: 54px;
+  padding: 13px 14px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.form-stack select[name="role"] option {
+  font-size: 16px;
+}
