@@ -2,3 +2,4 @@
 __pycache__/
 *.py[cod]
 food_tracker.db
+.replate_pptx_work/
